@@ -1,6 +1,5 @@
 - Hi, I’m @TommasoLocatelli
 - I’m interested in many things
-- I come from philosophy but I am studying data science
 
 <!---
 TommasoLocatelli/TommasoLocatelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
