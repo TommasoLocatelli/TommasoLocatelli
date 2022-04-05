@@ -1,5 +1,5 @@
 - Hi, I’m @TommasoLocatelli
-- I’m interested in many things
+- I’m interested in many things but not everything
 
 <!---
 TommasoLocatelli/TommasoLocatelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
