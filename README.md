@@ -1,5 +1,5 @@
 - Hi, I’m @TommasoLocatelli
-- I’m interested in many things, especially something, but not everything
+- I’m interested in many things, but not everything
 - examples of things I'm interested in: epistemology, intelligent systems, data mining
 
 <!---
